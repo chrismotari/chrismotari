@@ -1,27 +1,55 @@
-# 👋 Hi, I'm Chris Motari
+# Chris Motari
 
-**Lead Full-stack Software Engineer**  
-I build scalable SaaS platforms, APIs, and cloud-native systems.
+**Full-Stack Engineer**  
+I design and deliver scalable SaaS platforms, distributed systems, and high-performance engineering teams.
 
-### ⚡ Tech Stack
-**Frontend:** Vue • React • Next.js  
-**Backend:** Laravel • Django • Java  
-**DevOps:** Docker • Kubernetes • GitHub Actions • CircleCI  
-**Cloud:** AWS • Azure  
-**DB:** PostgreSQL • MySQL • MongoDB • Redis  
+---
 
-### 🔧 What I Do
-- Build and maintain production-grade backend systems  
-- Architect and deploy cloud/DevOps pipelines  
-- Lead engineering teams & code quality  
-- Full-stack feature delivery (API → UI)
+## Core Stack & Expertise
 
-### 📌 Featured Work
-- SaaS Architecture (Multi-tenant + CI/CD + AWS)  
-- Django + Redis Microservices  
-- Laravel Enterprise API Template  
-- GitHub Actions CI/CD Pipelines  
+### **Frontend**
+- Vue  
+- React  
+- Next.js  
 
-### 📫 Contact
+### **Backend**
+- Laravel  
+- Django  
+- Java  
+
+### **DevOps & Cloud**
+- Docker  
+- Kubernetes  
+- GitHub Actions  
+- CircleCI  
+- AWS  
+- Azure  
+
+### **Data**
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- Redis  
+
+---
+
+## What I Specialize In
+- Architecting cloud-native, multi-tenant SaaS systems at scale  
+- Building resilient APIs, microservices, and backend platforms  
+- Designing and automating CI/CD workflows and DevOps pipelines  
+- Leading engineering teams, code standards, and system reliability  
+- End-to-end delivery from backend logic to frontend experiences and cloud deployment  
+
+---
+
+## Selected Work Highlights
+- **Scalable SaaS Architecture** — Multi-tenant design, automated CI/CD, AWS-based deployment  
+- **Django + Redis Microservices** — High-performance task processing and caching layers  
+- **Enterprise Laravel API Template** — Production-ready architecture with modular components  
+- **CI/CD Pipelines** — GitHub Actions & CircleCI orchestration for automated testing and deployments  
+
+---
+
+## Connect
 **Email:** chrismotari@gmail.com  
-**LinkedIn:** linkedin.com/in/chrismotari  
+**LinkedIn:** https://linkedin.com/in/chrismotari
