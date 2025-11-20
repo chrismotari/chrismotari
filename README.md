@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @chrismotari
-- 👀 I’m interested in software engineering patterns
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on backend dev projects(Laravel or Django)
-- 📫 You can reach me on chrismotari@gmail.com
+# 👋 Hi, I'm Chris Motari
 
-<!---
-chrismotari/chrismotari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Lead Full-stack Software Engineer**  
+I build scalable SaaS platforms, APIs, and cloud-native systems.
+
+### ⚡ Tech Stack
+**Frontend:** Vue • React • Next.js  
+**Backend:** Laravel • Django • Java  
+**DevOps:** Docker • Kubernetes • GitHub Actions • CircleCI  
+**Cloud:** AWS • Azure  
+**DB:** PostgreSQL • MySQL • MongoDB • Redis  
+
+### 🔧 What I Do
+- Build and maintain production-grade backend systems  
+- Architect and deploy cloud/DevOps pipelines  
+- Lead engineering teams & code quality  
+- Full-stack feature delivery (API → UI)
+
+### 📌 Featured Work
+- SaaS Architecture (Multi-tenant + CI/CD + AWS)  
+- Django + Redis Microservices  
+- Laravel Enterprise API Template  
+- GitHub Actions CI/CD Pipelines  
+
+### 📫 Contact
+**Email:** chrismotari@gmail.com  
+**LinkedIn:** linkedin.com/in/chrismotari  
