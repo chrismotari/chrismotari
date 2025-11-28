@@ -8,7 +8,7 @@ I design and deliver scalable SaaS platforms, distributed systems, and high-perf
 ## Core Stack & Expertise
 
 **Frontend:** Vue • React • Next.js  
-**Backend:** Laravel • Django • Java  
+**Backend:** Laravel • Django  • .NET Ecosystem  
 **DevOps & Cloud:** Docker • Kubernetes • GitHub Actions • CircleCI • AWS • Azure  
 **Data:** PostgreSQL • MySQL • MongoDB • Redis  
 
